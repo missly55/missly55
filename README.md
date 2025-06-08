@@ -29,8 +29,7 @@ I am an aspiring IT professional with a keen interest in technology and a passio
 
 <!-- [Provide Objective - Remove this afterwards]] -->
 
-With a strong academic background in Information Technology and recent hands-on training in cybersecurity, I’m eager to launch my career in the tech industry. My curiosity for technology led me to complete a six-month Information Security Analyst program, and I am now actively seeking entry-level opportunities in IT support or cybersecurity. While I remain open to where my career path may lead, my goal is to contribute to secure, efficient systems and grow continuously in the evolving field of IT. I'm specifically aiming to join a Information Security Analyst as a Tier 1.
-
+With a strong academic background in Information Technology and recent hands-on training in cybersecurity, I’m eager to launch my career in the tech industry. My curiosity for technology led me to complete a six-month Information Security Analyst program, and I am now actively seeking entry-level opportunities in IT support or cybersecurity. While I remain open to where my career path may lead, my goal is to contribute to secure, efficient systems and grow continuously in the evolving field of IT.
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
@@ -73,8 +72,8 @@ With a strong academic background in Information Technology and recent hands-on 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security + %2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network + %2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
