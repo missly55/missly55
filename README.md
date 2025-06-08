@@ -26,9 +26,10 @@ Here are some ideas to get you started:
 I am an aspiring IT professional with a keen interest in technology and a passion for ensuring systems are secure, stable, and user-friendly. I'm particularly interested in areas such as cybersecurity and IT support, where I can help protect sensitive data and ensure systems operate efficiently within today's digital landscape.
 
 ## Objective
+
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+With a strong academic background in Information Technology and recent hands-on training in cybersecurity, I’m eager to launch my career in the tech industry. My curiosity for technology led me to complete a six-month Information Security Analyst program, and I am now actively seeking entry-level opportunities in IT support or cybersecurity. While I remain open to where my career path may lead, my goal is to contribute to secure, efficient systems and grow continuously in the evolving field of IT. I'm specifically aiming to join a Information Security Analyst as a Tier 1.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
