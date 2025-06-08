@@ -36,8 +36,8 @@ With a strong academic background in Information Technology and recent hands-on 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Troubleshooting, Networking basics , Windows | <a href="https://google.com">Detection Lab</a>|
-   OS familiarity, Security awareness         
+|  Tier 1 IT Support & Cybersecurity Awareness Lab (Self-Guided) | <a href="https://google.com">Detection Lab</a>|
+            
 
 
 
