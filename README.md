@@ -36,7 +36,8 @@ With a strong academic background in Information Technology and recent hands-on 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Troubleshooting, Networking basics , Windows | <a href="https://google.com">Detection Lab</a>|
+   OS familiarity, Security awareness         
 
 
 
