@@ -27,7 +27,7 @@ I am an aspiring IT professional with a keen interest in technology and a passio
 
 ## Objective
 
-[Provide Objective - Remove this afterwards]]
+<!-- [Provide Objective - Remove this afterwards]] -->
 
 With a strong academic background in Information Technology and recent hands-on training in cybersecurity, I’m eager to launch my career in the tech industry. My curiosity for technology led me to complete a six-month Information Security Analyst program, and I am now actively seeking entry-level opportunities in IT support or cybersecurity. While I remain open to where my career path may lead, my goal is to contribute to secure, efficient systems and grow continuously in the evolving field of IT. I'm specifically aiming to join a Information Security Analyst as a Tier 1.
 
