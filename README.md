@@ -36,7 +36,7 @@ With a strong academic background in Information Technology and recent hands-on 
 
 | Skills                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| IT Support Fundamentals & Security Awareness | <a href="https://google.com">Tier 1 IT Support & Cybersecurity Awareness Lab (Self-Guided)</a>|
+| IT Support Fundamentals | <a href="https://google.com">Tier 1 IT Support Lab (Self-Guided)</a>|
             
 
 
@@ -87,5 +87,5 @@ With a strong academic background in Information Technology and recent hands-on 
 </div>
 
 ## Projects
-- Tier 1 IT Support & Cybersecurity Awareness Lab (Self-Guided)
-- SOC Automation Project
+- Tier 1 IT Support Lab (Self-Guided)
+
