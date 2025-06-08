@@ -87,5 +87,5 @@ With a strong academic background in Information Technology and recent hands-on 
 </div>
 
 ## Projects
-- Detection Lab
+- Tier 1 IT Support & Cybersecurity Awareness Lab (Self-Guided)
 - SOC Automation Project
