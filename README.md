@@ -36,7 +36,7 @@ With a strong academic background in Information Technology and recent hands-on 
 
 | Skills                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| IT Support Fundamentals | <a href="https://google.com">Tier 1 IT Support Lab (Self-Guided)</a>|
+| IT Support Fundamentals | <a href="https://github.com/missly55/Tier-1-IT-Support-Lab-Self-Guided-">Tier 1 IT Support Lab (Self-Guided)</a>|
             
 
 
