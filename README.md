@@ -38,7 +38,7 @@ With a strong academic background in Information Technology and recent hands-on 
 |-----------------------------------------------|----------------------------|
 | IT Support Fundamentals | <a href="https://github.com/missly55/Tier-1-IT-Support-Lab-Self-Guided-">Tier 1 IT Support Lab (Self-Guided)</a>|
 | Network Segmentation and Traffic Control | <a href="https://github.com/missly55/Home-Lab">Home-Lab</a>|
-| GoPhish Set-up, Understand Phish Attacks | <a href="https://github.com/missly55/Phishing-Simulation/tree/main"> Phish Training Simulation | 
+| GoPhish Set-up, Understand Phish Attacks | <a href="https://github.com/missly55/Phishing-Simulation/tree/main"> GoPhish Training Simulation | 
 <!--
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
