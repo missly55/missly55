@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Hi there 👋, I'm Lynell
+## 👋 Hi there , I'm Lynell
 <a href="https://linkedin.com/in/lynell-julius/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!--
