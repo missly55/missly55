@@ -82,5 +82,5 @@ With a strong academic background in Information Technology and recent hands-on 
 </div>
 
 ## Projects
-- Tier 1 IT Support Lab (Self-Guided)
+- GoPhish Training Simulation 
 
