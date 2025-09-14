@@ -37,8 +37,8 @@ With a strong academic background in Information Technology and recent hands-on 
 | Skills                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | GoPhish Set-Up, Understanding of Phishing Attacks | <a href="https://github.com/missly55/Phishing-Simulation/tree/main"> GoPhish Training Simulation | 
+| LetsDefend SOC Learning Path | <a href="https://github.com/missly55/letsdefend-soc-analyst-practice"> Practice Alert Triage)</a>|
 <!--
-| IT Support Fundamentals | <a href="https://github.com/missly55/Tier-1-IT-Support-Lab-Self-Guided-">Tier 1 IT Support Lab (Self-Guided)</a>|
 | Network Segmentation and Traffic Control | <a href="https://github.com/missly55/Home-Lab">Home-Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
