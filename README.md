@@ -82,5 +82,6 @@ With a strong academic background in Information Technology and recent hands-on 
 </div>
 
 ## Projects
-- GoPhish Training Simulation 
+- GoPhish Training Simulation
+- LetsDefend Practice Alerts
 
