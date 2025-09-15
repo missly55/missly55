@@ -79,7 +79,7 @@ With a strong academic background in Information Technology and recent hands-on 
 <img src="https://img.shields.io/badge/-Security %2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network %2B-2ECC71?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CySA%2B-6C3483?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Microsoft Certified: Security, Compliance, and Identity Fundamentals%2B-6C3483?&style=for-the-badge&logo=Microsoft&logoColor=white" />    
+<img src="https://img.shields.io/badge/Microsoft%20Certified%3A%20Security%2C%20Compliance%2C%20and%20Identity%20Fundamentals-800000?style=for-the-badge&logo=Microsoft&logoColor=white" alt="Microsoft Certified: Security, Compliance, and Identity Fundamentals"> 
 </div>
 
 ## Projects
