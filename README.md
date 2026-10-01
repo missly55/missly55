@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-## 👋 Hi there , I'm Lynell
-<a href="https://linkedin.com/in/lynell-julius/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 
 <!--
 [Brief Introduction - Remove this afterwards]  
@@ -27,10 +26,10 @@ I’m an aspiring Cybersecurity Analyst with a B.S. in Information Technology, C
 
 I'm passionate about protecting systems and networks from real-world threats. I document my progress and hands-on blue team experience here — from phishing investigations to malware triage.
 
-## Objective
+## Objective. -->
 
 <!-- [Provide Objective - Remove this afterwards]] -->
-
+<!--
 With a strong academic foundation and recent cybersecurity training, I'm actively seeking entry-level opportunities in:
 
 SOC Analyst (Tier 1)
@@ -40,6 +39,9 @@ IT Support / Security Operations
 My goal is to bring value to a team by helping detect and respond to threats — while continuing to grow into a security-focused career path.
 
 -->
+## 👋 Hi there , I'm Lynell
+<a href="https://linkedin.com/in/lynell-julius/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 
 I'm an aspiring Cybersecurity Analyst with a B.S. in Information Technology and CompTIA CySA+, Security+, and Network+ certifications.
 
