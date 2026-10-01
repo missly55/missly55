@@ -47,7 +47,7 @@ I'm an aspiring Cybersecurity Analyst with a B.S. in Information Technology and 
 
 My cybersecurity experience comes from structured hands-on training and security labs, including LetsDefend and Correlation One. I'm currently continuing to develop my blue-team investigation skills through additional SOC training and simulated investigations.
 
-# My Career Objective:
+## ⚡ My Career Objective:
 
 I'm actively seeking an entry-level opportunity where I can apply my cybersecurity training in a professional environment, contribute to security monitoring and investigations, and continue developing into a security operations professional.
 
