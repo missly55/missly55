@@ -51,6 +51,14 @@ My cybersecurity experience comes from structured hands-on training and security
 
 I'm actively seeking an entry-level opportunity where I can apply my cybersecurity training in a professional environment, contribute to security monitoring and investigations, and continue developing into a security operations professional.
 
+I'm particularly interested in:
+
+- SOC Analyst / Tier 1 SOC Analyst
+- Cybersecurity Analyst
+- Security Operations Analyst
+- Security Operations Associate
+- Information Security
+
 
 ## Skills
 
