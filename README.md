@@ -60,7 +60,7 @@ I'm particularly interested in:
 - Information Security
 
 
-## Skills
+## Hands-on Training/lab Skills
 
 <!-- [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]] -->
 
