@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/lynell-julius/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!--
-[Brief Introduction - Remove this afterwards]  -->
+[Brief Introduction - Remove this afterwards]  
 
 I’m an aspiring Cybersecurity Analyst with a B.S. in Information Technology, CompTIA certifications (CySA+, Security+, Network+), and hands-on training through platforms like LetsDefend.io and Correlation One.
 
@@ -38,6 +38,18 @@ Cybersecurity Trainee
 IT Support / Security Operations
 
 My goal is to bring value to a team by helping detect and respond to threats — while continuing to grow into a security-focused career path.
+
+-->
+
+I'm an aspiring Cybersecurity Analyst with a B.S. in Information Technology and CompTIA CySA+, Security+, and Network+ certifications.
+
+My cybersecurity experience comes from structured hands-on training and security labs, including LetsDefend and Correlation One. I'm currently continuing to develop my blue-team investigation skills through additional SOC training and simulated investigations.
+
+My Career Objective:
+
+I'm actively seeking an entry-level opportunity where I can apply my cybersecurity training in a professional environment, contribute to security monitoring and investigations, and continue developing into a security operations professional.
+
+
 ## Skills
 
 <!-- [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]] -->
