@@ -64,11 +64,12 @@ I'm particularly interested in:
 
 <!-- [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]] -->
 
-| Skill / Tool                 | How I used it (beginner-friendly)                                | Example Project / Link |
+|Skill / Tool                  | What I practiced                                                 | Project / Evidence     |
 |----------------------------- |------------------------------------------------------------------|------------------------|
-| GoPhish (phishing basics)    | Built a safe phishing lab to learn how campaigns and landing pages work | [GoPhish Training Simulation](https://github.com/missly55/Phishing-Simulation/tree/main) |
-| LetsDefend SIEM platform    | Practicing alert triage, ticketing workflow, and escalation steps | [LetsDefend SOC Labs](https://github.com/missly55/letsdefend-soc-analyst-practice) |
-
+| GoPhish   | Phishing simulation basics | [GoPhish project](https://github.com/missly55/Phishing-Simulation/tree/main) |
+| LetsDefend   | SOC alert triage | [LetsDefend labs](https://github.com/missly55/letsdefend-soc-analyst-practice) |
+| Greenbone OpenVAS  |Vulnerability scanning| [OpenVAS lab](https://github.com/missly55/openvas-lab/tree/main)) |
+| MyDFIR  | Email investigation and reporting | [Email investigations]()) |
 
 <!--
 | Skills                                        | Associated Project         |
